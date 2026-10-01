@@ -26,8 +26,8 @@ I'm a Master's student in Computer Science at Boston University, graduating in J
 
 | Project | What it does | Tech |
 |---|---|---|
-| Respiratory Disease Prediction | Predicts daily U.S. respiratory illness burden from temperature, air pollution and humidity; built with a team of 3. Ridge regression explains 68.7% of variance on a full unseen year | Python, Ridge, Random Forest, XGBoost |
 | GPU-Accelerated DCT | 2D Discrete Cosine Transform on NVIDIA V100 GPUs, over 10x faster than CPU in a JPEG pipeline | CUDA, C++ |
+| Respiratory Disease Prediction from Environmental Factors | Predicts daily U.S. respiratory illness burden from temperature, air pollution and humidity. Ridge regression explains 68.7% of variance on a full unseen year | Python, Ridge, Random Forest, XGBoost |
 | Eye Disease Prediction | Classifies eye diseases from OCT scans with 96.69% accuracy; published at FICC 2024 | PyTorch, CNN, Self-Attention |
 | Facial Recognition Attendance | Real-time attendance system, hackathon winner at Evathon 2021 | OpenCV, CNN, Genetic Algorithm |
 
